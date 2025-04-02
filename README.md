@@ -1,4 +1,6 @@
 # Translator
+
+假设你希望使用它，请下载代码，并在.env.local中写入你的APIkey
  
  ## 技术栈 (Technology Stack)
  整个项目由 Javascript（Typescript，Typescript 是强类型的 Javascript 版本）实现，没有使用其它语言。
